@@ -136,8 +136,15 @@ graph TD
 ⚠ NEVER push .env to GitHub. Your API key will be exposed publicly.
 
 ## Assets
-- [Architecture Diagram](<img width="1024" height="1024" alt="architecture_diagram" src="https://github.com/user-attachments/assets/843a7e1d-3c72-4ad0-92c8-68133aabcfe2" />)
-- [Cover Page Banner](<img width="1024" height="1024" alt="cover_page_banner" src="https://github.com/user-attachments/assets/1e8b1a02-47b3-4d43-a626-aaeb33282c2e" />)
 
-## Demo Script
-Refer to [DEMO_SCRIPT.txt](file:///e:/Arnab%20Docs/Google%20Kaggle%20Course%20-%20June/ADK-ProjectWork/studybuddy-planner/DEMO_SCRIPT.txt) for a complete narration script.
+### Architecture Diagram:
+
+<img width="600" height="600" alt="architecture_diagram" src="https://github.com/user-attachments/assets/843a7e1d-3c72-4ad0-92c8-68133aabcfe2" />
+
+---
+
+### Cover Page Banner:
+
+<img width="600" height="600" alt="cover_page_banner" src="https://github.com/user-attachments/assets/1e8b1a02-47b3-4d43-a626-aaeb33282c2e" />
+
+---
